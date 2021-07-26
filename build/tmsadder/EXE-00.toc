@@ -1,0 +1,445 @@
+('D:\\Project & Tutorials\\Projects\\Python Projects\\Tms watch list '
+ 'adder\\dist\\tmsadder.exe',
+ False,
+ False,
+ False,
+ 'c:\\users\\nitro '
+ '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity type="win32" name="tmsadder" processorArchitecture="amd64" version="1.0.0.0"/><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" language="*" processorArchitecture="*" version="6.0.0.0" publicKeyToken="6595b64144ccf1df"/><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"/></dependentAssembly></dependency><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/></application></compatibility><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware></windowsSettings></application></assembly>',
+ True,
+ None,
+ None,
+ None,
+ 'tmsadder.pkg',
+ [('PYZ-00.pyz',
+   'D:\\Project & Tutorials\\Projects\\Python Projects\\Tms watch list '
+   'adder\\build\\tmsadder\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyimod04_ctypes',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\loader\\pyimod04_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\nitro '
+   '5\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\nitro '
+   '5\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\nitro '
+   '5\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('tmsadder',
+   'D:\\Project & Tutorials\\Projects\\Python Projects\\Tms watch list '
+   'adder\\tmsadder.py',
+   'PYSOURCE'),
+  ('python38.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\python38.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_lzma',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('wx._adv',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_adv.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._stc',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_stc.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._html',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_html.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._msw',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_msw.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx.siplib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\siplib.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._core',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_core.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('psutil._psutil_windows',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_psutil_windows.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._richtext',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_richtext.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._xml',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_xml.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imagingtk',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_imagingtk.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._webp',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_webp.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imaging',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_imaging.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('libssl-1_1.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('wxbase315u_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxbase315u_vc140_x64.dll',
+   'BINARY'),
+  ('wxmsw315u_core_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxmsw315u_core_vc140_x64.dll',
+   'BINARY'),
+  ('wxmsw315u_stc_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxmsw315u_stc_vc140_x64.dll',
+   'BINARY'),
+  ('wxmsw315u_html_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxmsw315u_html_vc140_x64.dll',
+   'BINARY'),
+  ('MSVCP140.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\MSVCP140.dll',
+   'BINARY'),
+  ('wxbase315u_net_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxbase315u_net_vc140_x64.dll',
+   'BINARY'),
+  ('wxmsw315u_richtext_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxmsw315u_richtext_vc140_x64.dll',
+   'BINARY'),
+  ('wxbase315u_xml_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxbase315u_xml_vc140_x64.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\Project & Tutorials\\Projects\\Python Projects\\Tms watch list '
+   'adder\\build\\tmsadder\\base_library.zip',
+   'DATA'),
+  ('gooey\\images\\program_icon.icns',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\program_icon.icns',
+   'DATA'),
+  ('gooey\\languages\\traditional-chinese.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\traditional-chinese.json',
+   'DATA'),
+  ('gooey\\languages\\english.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\english.json',
+   'DATA'),
+  ('gooey\\languages\\turkish.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\turkish.json',
+   'DATA'),
+  ('gooey\\images\\program_icon.ico',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\program_icon.ico',
+   'DATA'),
+  ('gooey\\languages\\portuguese.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\portuguese.json',
+   'DATA'),
+  ('gooey\\languages\\russian.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\russian.json',
+   'DATA'),
+  ('gooey\\images\\program_icon.png',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\program_icon.png',
+   'DATA'),
+  ('gooey\\languages\\hebrew.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\hebrew.json',
+   'DATA'),
+  ('gooey\\languages\\japanese.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\japanese.json',
+   'DATA'),
+  ('gooey\\languages\\greek.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\greek.json',
+   'DATA'),
+  ('gooey\\languages\\italian.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\italian.json',
+   'DATA'),
+  ('gooey\\images\\error_icon.png',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\error_icon.png',
+   'DATA'),
+  ('gooey\\languages\\croatian.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\croatian.json',
+   'DATA'),
+  ('gooey\\languages\\Hindi.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\Hindi.json',
+   'DATA'),
+  ('gooey\\images\\success_icon.png',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\success_icon.png',
+   'DATA'),
+  ('gooey\\languages\\czech.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\czech.json',
+   'DATA'),
+  ('gooey\\languages\\german.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\german.json',
+   'DATA'),
+  ('gooey\\languages\\french.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\french.json',
+   'DATA'),
+  ('gooey\\images\\config_icon.png',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\config_icon.png',
+   'DATA'),
+  ('gooey\\languages\\vietnamese.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\vietnamese.json',
+   'DATA'),
+  ('gooey\\languages\\bosnian.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\bosnian.json',
+   'DATA'),
+  ('gooey\\languages\\chinese.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\chinese.json',
+   'DATA'),
+  ('gooey\\languages\\polish.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\polish.json',
+   'DATA'),
+  ('gooey\\languages\\spanish.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\spanish.json',
+   'DATA'),
+  ('gooey\\languages\\dutch.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\dutch.json',
+   'DATA'),
+  ('gooey\\images\\running_icon.png',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\running_icon.png',
+   'DATA'),
+  ('gooey\\languages\\korean.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\korean.json',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\INSTALLER',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\COPYING.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\COPYING.txt',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\entry_points.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\LICENSE',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\top_level.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\LICENSE',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\LICENSE',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\zip-safe',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\zip-safe',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\RECORD',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\RECORD',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\top_level.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\top_level.txt',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\entry_points.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\entry_points.txt',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\INSTALLER',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\INSTALLER',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\WHEEL',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\WHEEL',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\METADATA',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\METADATA',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\top_level.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\top_level.txt',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\RECORD',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\RECORD',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\REQUESTED',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\zip-safe',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\zip-safe',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\INSTALLER',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\WHEEL',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\METADATA',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\RECORD',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\METADATA',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\METADATA',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\WHEEL',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\dependency_links.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\dependency_links.txt',
+   'DATA'),
+  ('tmsadder.exe.manifest',
+   'D:\\Project & Tutorials\\Projects\\Python Projects\\Tms watch list '
+   'adder\\build\\tmsadder\\tmsadder.exe.manifest',
+   'BINARY'),
+  ('pyi-windows-manifest-filename tmsadder.exe.manifest', '', 'OPTION')],
+ [],
+ False,
+ False,
+ 1626178099,
+ [('runw.exe',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\runw.exe',
+   'EXECUTABLE')])

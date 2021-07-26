@@ -1,0 +1,2212 @@
+(['D:\\Project & Tutorials\\Projects\\Python Projects\\Tms watch list '
+  'adder\\tmsadder.py'],
+ ['D:\\Project & Tutorials\\Projects\\Python Projects\\Tms watch list adder',
+  'D:\\Project & Tutorials\\Projects\\Python Projects\\Tms watch list adder'],
+ ['codecs'],
+ ['c:\\users\\nitro '
+  '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'c:\\users\\nitro '
+  '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'c:\\users\\nitro '
+  '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'c:\\users\\nitro '
+  '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'c:\\users\\nitro '
+  '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ {},
+ [],
+ [],
+ False,
+ False,
+ False,
+ '3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_pkgutil',
+   'C:\\Users\\nitro '
+   '5\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\nitro '
+   '5\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\nitro '
+   '5\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('tmsadder',
+   'D:\\Project & Tutorials\\Projects\\Python Projects\\Tms watch list '
+   'adder\\tmsadder.py',
+   'PYSOURCE')],
+ [('inspect',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\configparser.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\bz2.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\struct.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\stat.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\gzip.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\copy.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\calendar.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\selectors.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\random.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ssl.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\gettext.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\nitro 5\\appdata\\local\\programs\\python\\python38\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\optparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\numbers.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\tty.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\codeop.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\cmd.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ast.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\opcode.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('gooey',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.components.options.options',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\options\\options.py',
+   'PYMODULE'),
+  ('gooey.gui.components.options',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\options\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.components',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.slider',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\slider.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.bases',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\bases.py',
+   'PYMODULE'),
+  ('gooey.gui.components.mouse',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\mouse.py',
+   'PYMODULE'),
+  ('gooey.gui.pubsub',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\pubsub.py',
+   'PYMODULE'),
+  ('gooey.gui.components.util.wrapped_static_text',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\util\\wrapped_static_text.py',
+   'PYMODULE'),
+  ('gooey.gui.components.util',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\util\\__init__.py',
+   'PYMODULE'),
+  ('wx.lib.wordwrap',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\wordwrap.py',
+   'PYMODULE'),
+  ('wx.lib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.validators',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\validators.py',
+   'PYMODULE'),
+  ('gooey.util.functional',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\util\\functional.py',
+   'PYMODULE'),
+  ('gooey.util',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\util\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.util.wx_util',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\util\\wx_util.py',
+   'PYMODULE'),
+  ('gooey.gui.three_to_four',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\three_to_four.py',
+   'PYMODULE'),
+  ('wx.adv',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\adv.py',
+   'PYMODULE'),
+  ('gooey.gui.util',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\util\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.events',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\events.py',
+   'PYMODULE'),
+  ('gooey.gui.formatters',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\formatters.py',
+   'PYMODULE'),
+  ('gooey.gui.util.quoting',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\util\\quoting.py',
+   'PYMODULE'),
+  ('wx',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\__init__.py',
+   'PYMODULE'),
+  ('wx.stc',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\stc.py',
+   'PYMODULE'),
+  ('wx.core',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\core.py',
+   'PYMODULE'),
+  ('wx.html',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\html.py',
+   'PYMODULE'),
+  ('wx.msw',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\msw.py',
+   'PYMODULE'),
+  ('wx.lib.colourutils',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\colourutils.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('wx.__version__',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\__version__.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.numeric_fields',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\numeric_fields.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.dropdown_filterable',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\dropdown_filterable.py',
+   'PYMODULE'),
+  ('gooey.gui.lang.i18n',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\lang\\i18n.py',
+   'PYMODULE'),
+  ('gooey.gui.lang',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\lang\\__init__.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.choosers',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\choosers.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.core',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\core\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.core.text_input',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\core\\text_input.py',
+   'PYMODULE'),
+  ('gooey.gui.util.filedrop',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\util\\filedrop.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.core.chooser',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\core\\chooser.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.dialogs.time_dialog',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\dialogs\\time_dialog.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.dialogs',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.dialogs.base_dialog',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\dialogs\\base_dialog.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.dialogs.calender_dialog',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\dialogs\\calender_dialog.py',
+   'PYMODULE'),
+  ('wx.lib.agw.multidirdialog',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\multidirdialog.py',
+   'PYMODULE'),
+  ('wx.lib.agw',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\__init__.py',
+   'PYMODULE'),
+  ('wx.lib.embeddedimage',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\embeddedimage.py',
+   'PYMODULE'),
+  ('wx.lib.buttons',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\buttons.py',
+   'PYMODULE'),
+  ('wx.lib.imageutils',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\imageutils.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.radio_group',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\radio_group.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.counter',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\counter.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.checkbox',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\checkbox.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.listbox',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\listbox.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.dropdown',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\dropdown.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.command',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\command.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.password',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\password.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.textarea',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\textarea.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.textfield',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\textfield.py',
+   'PYMODULE'),
+  ('gooey.gui.components.modals',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\modals.py',
+   'PYMODULE'),
+  ('gooey.gui',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.application',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\application.py',
+   'PYMODULE'),
+  ('gooey.gui.containers.application',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\containers\\application.py',
+   'PYMODULE'),
+  ('gooey.gui.containers',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\containers\\__init__.py',
+   'PYMODULE'),
+  ('gooey.gui.util.time',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\util\\time.py',
+   'PYMODULE'),
+  ('timeit',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\timeit.py',
+   'PYMODULE'),
+  ('gooey.gui.processor',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\processor.py',
+   'PYMODULE'),
+  ('gooey.gui.util.taskkill',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\util\\taskkill.py',
+   'PYMODULE'),
+  ('psutil',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._psaix',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_psaix.py',
+   'PYMODULE'),
+  ('psutil._pssunos',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_pssunos.py',
+   'PYMODULE'),
+  ('psutil._psbsd',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_psbsd.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('psutil._psosx',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_psosx.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('psutil._pslinux',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_pslinux.py',
+   'PYMODULE'),
+  ('psutil._psposix',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_psposix.py',
+   'PYMODULE'),
+  ('psutil._compat',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_compat.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('curses',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('gooey.gui.util.casting',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\util\\casting.py',
+   'PYMODULE'),
+  ('gooey.gui.components.tabbar',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\tabbar.py',
+   'PYMODULE'),
+  ('gooey.gui.components.sidebar',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\sidebar.py',
+   'PYMODULE'),
+  ('gooey.gui.components.menubar',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\menubar.py',
+   'PYMODULE'),
+  ('gooey.gui.components.header',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\header.py',
+   'PYMODULE'),
+  ('gooey.gui.components.footer',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\footer.py',
+   'PYMODULE'),
+  ('gooey.gui.components.console',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\console.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.richtextconsole',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\richtextconsole.py',
+   'PYMODULE'),
+  ('colored',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colored\\__init__.py',
+   'PYMODULE'),
+  ('colored.style',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colored\\style.py',
+   'PYMODULE'),
+  ('colored.back',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colored\\back.py',
+   'PYMODULE'),
+  ('colored.colors',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colored\\colors.py',
+   'PYMODULE'),
+  ('colored.fore',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colored\\fore.py',
+   'PYMODULE'),
+  ('colored.colored',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colored\\colored.py',
+   'PYMODULE'),
+  ('colored.hex',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\colored\\hex.py',
+   'PYMODULE'),
+  ('gooey.gui.components.widgets.basictextconsole',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\widgets\\basictextconsole.py',
+   'PYMODULE'),
+  ('gooey.gui.components.config',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\config.py',
+   'PYMODULE'),
+  ('wx.lib.scrolledpanel',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\scrolledpanel.py',
+   'PYMODULE'),
+  ('wx.lib.inspection',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\inspection.py',
+   'PYMODULE'),
+  ('wx.py.editwindow',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\editwindow.py',
+   'PYMODULE'),
+  ('wx.py.version',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\version.py',
+   'PYMODULE'),
+  ('wx.py.dispatcher',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\dispatcher.py',
+   'PYMODULE'),
+  ('wx.lib.agw.customtreectrl',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\customtreectrl.py',
+   'PYMODULE'),
+  ('wx.lib.expando',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\expando.py',
+   'PYMODULE'),
+  ('wx.lib.newevent',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\newevent.py',
+   'PYMODULE'),
+  ('wx.lib.eventwatcher',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\eventwatcher.py',
+   'PYMODULE'),
+  ('wx.lib.utils',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\utils.py',
+   'PYMODULE'),
+  ('wx.lib.agw.aui',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\aui\\__init__.py',
+   'PYMODULE'),
+  ('wx.lib.agw.aui.dockart',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\aui\\dockart.py',
+   'PYMODULE'),
+  ('wx.lib.agw.aui.tabmdi',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\aui\\tabmdi.py',
+   'PYMODULE'),
+  ('wx.lib.agw.aui.auibook',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\aui\\auibook.py',
+   'PYMODULE'),
+  ('wx.lib.agw.aui.tabart',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\aui\\tabart.py',
+   'PYMODULE'),
+  ('wx.lib.agw.aui.auibar',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\aui\\auibar.py',
+   'PYMODULE'),
+  ('wx.lib.agw.aui.framemanager',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\aui\\framemanager.py',
+   'PYMODULE'),
+  ('wx.lib.agw.aui.aui_utilities',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\aui\\aui_utilities.py',
+   'PYMODULE'),
+  ('wx.lib.agw.aui.aui_constants',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\agw\\aui\\aui_constants.py',
+   'PYMODULE'),
+  ('wx.py',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\__init__.py',
+   'PYMODULE'),
+  ('wx.py.sliceshell',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\sliceshell.py',
+   'PYMODULE'),
+  ('wx.py.path',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\path.py',
+   'PYMODULE'),
+  ('wx.py.parse',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\parse.py',
+   'PYMODULE'),
+  ('wx.py.magic',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\magic.py',
+   'PYMODULE'),
+  ('wx.py.shell',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\shell.py',
+   'PYMODULE'),
+  ('wx.py.pseudo',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\pseudo.py',
+   'PYMODULE'),
+  ('wx.py.interpreter',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\interpreter.py',
+   'PYMODULE'),
+  ('wx.py.filling',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\filling.py',
+   'PYMODULE'),
+  ('wx.py.crustslices',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\crustslices.py',
+   'PYMODULE'),
+  ('wx.py.editor',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\editor.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\imp.py',
+   'PYMODULE'),
+  ('wx.py.crust',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\crust.py',
+   'PYMODULE'),
+  ('wx.py.frame',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\frame.py',
+   'PYMODULE'),
+  ('wx.lib.dialogs',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\dialogs.py',
+   'PYMODULE'),
+  ('wx.lib.layoutf',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\lib\\layoutf.py',
+   'PYMODULE'),
+  ('wx.py.images',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\images.py',
+   'PYMODULE'),
+  ('wx.py.buffer',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\buffer.py',
+   'PYMODULE'),
+  ('wx.py.document',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\document.py',
+   'PYMODULE'),
+  ('wx.py.introspect',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\py\\introspect.py',
+   'PYMODULE'),
+  ('wx.richtext',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\richtext.py',
+   'PYMODULE'),
+  ('wx.xml',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\xml.py',
+   'PYMODULE'),
+  ('gooey.gui.imageutil',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\imageutil.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\fractions.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('gooey.gui.seeder',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\seeder.py',
+   'PYMODULE'),
+  ('gooey.gui.cli',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\cli.py',
+   'PYMODULE'),
+  ('gooey.gui.image_repository',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\image_repository.py',
+   'PYMODULE'),
+  ('gooey.gui.components.filtering.prefix_filter',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\filtering\\prefix_filter.py',
+   'PYMODULE'),
+  ('gooey.gui.components.filtering',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\filtering\\__init__.py',
+   'PYMODULE'),
+  ('pygtrie',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pygtrie.py',
+   'PYMODULE'),
+  ('gooey.python_bindings.constants',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\python_bindings\\constants.py',
+   'PYMODULE'),
+  ('gooey.python_bindings',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\python_bindings\\__init__.py',
+   'PYMODULE'),
+  ('gooey.python_bindings.cmd_args',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\python_bindings\\cmd_args.py',
+   'PYMODULE'),
+  ('gooey.python_bindings.config_generator',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\python_bindings\\config_generator.py',
+   'PYMODULE'),
+  ('gooey.gui.util.functional',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\util\\functional.py',
+   'PYMODULE'),
+  ('gooey.python_bindings.argparse_to_json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\python_bindings\\argparse_to_json.py',
+   'PYMODULE'),
+  ('gooey.gui.components.options.validators',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\components\\options\\validators.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('gooey.python_bindings.constraints',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\python_bindings\\constraints.py',
+   'PYMODULE'),
+  ('gooey.gui.util.freeze',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\gui\\util\\freeze.py',
+   'PYMODULE'),
+  ('gooey.python_bindings.gooey_parser',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\python_bindings\\gooey_parser.py',
+   'PYMODULE'),
+  ('gooey.python_bindings.gooey_decorator',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\python_bindings\\gooey_decorator.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\nitro 5\\appdata\\local\\programs\\python\\python38\\lib\\os.py',
+   'PYMODULE')],
+ [('python38.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\python38.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_lzma',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('wx._adv',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_adv.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._stc',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_stc.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._html',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_html.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._msw',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_msw.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx.siplib',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\siplib.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._core',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_core.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('psutil._psutil_windows',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\psutil\\_psutil_windows.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._richtext',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_richtext.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._xml',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\_xml.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imagingtk',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_imagingtk.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._webp',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_webp.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imaging',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PIL\\_imaging.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('libssl-1_1.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('wxbase315u_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxbase315u_vc140_x64.dll',
+   'BINARY'),
+  ('wxmsw315u_core_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxmsw315u_core_vc140_x64.dll',
+   'BINARY'),
+  ('wxmsw315u_stc_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxmsw315u_stc_vc140_x64.dll',
+   'BINARY'),
+  ('wxmsw315u_html_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxmsw315u_html_vc140_x64.dll',
+   'BINARY'),
+  ('MSVCP140.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\MSVCP140.dll',
+   'BINARY'),
+  ('wxbase315u_net_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxbase315u_net_vc140_x64.dll',
+   'BINARY'),
+  ('wxmsw315u_richtext_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxmsw315u_richtext_vc140_x64.dll',
+   'BINARY'),
+  ('wxbase315u_xml_vc140_x64.dll',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\wx\\wxbase315u_xml_vc140_x64.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'D:\\Project & Tutorials\\Projects\\Python Projects\\Tms watch list '
+   'adder\\build\\tmsadder\\base_library.zip',
+   'DATA'),
+  ('gooey\\images\\program_icon.icns',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\program_icon.icns',
+   'DATA'),
+  ('gooey\\languages\\traditional-chinese.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\traditional-chinese.json',
+   'DATA'),
+  ('gooey\\languages\\english.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\english.json',
+   'DATA'),
+  ('gooey\\languages\\turkish.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\turkish.json',
+   'DATA'),
+  ('gooey\\images\\program_icon.ico',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\program_icon.ico',
+   'DATA'),
+  ('gooey\\languages\\portuguese.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\portuguese.json',
+   'DATA'),
+  ('gooey\\languages\\russian.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\russian.json',
+   'DATA'),
+  ('gooey\\images\\program_icon.png',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\program_icon.png',
+   'DATA'),
+  ('gooey\\languages\\hebrew.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\hebrew.json',
+   'DATA'),
+  ('gooey\\languages\\japanese.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\japanese.json',
+   'DATA'),
+  ('gooey\\languages\\greek.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\greek.json',
+   'DATA'),
+  ('gooey\\languages\\italian.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\italian.json',
+   'DATA'),
+  ('gooey\\images\\error_icon.png',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\error_icon.png',
+   'DATA'),
+  ('gooey\\languages\\croatian.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\croatian.json',
+   'DATA'),
+  ('gooey\\languages\\Hindi.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\Hindi.json',
+   'DATA'),
+  ('gooey\\images\\success_icon.png',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\success_icon.png',
+   'DATA'),
+  ('gooey\\languages\\czech.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\czech.json',
+   'DATA'),
+  ('gooey\\languages\\german.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\german.json',
+   'DATA'),
+  ('gooey\\languages\\french.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\french.json',
+   'DATA'),
+  ('gooey\\images\\config_icon.png',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\config_icon.png',
+   'DATA'),
+  ('gooey\\languages\\vietnamese.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\vietnamese.json',
+   'DATA'),
+  ('gooey\\languages\\bosnian.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\bosnian.json',
+   'DATA'),
+  ('gooey\\languages\\chinese.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\chinese.json',
+   'DATA'),
+  ('gooey\\languages\\polish.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\polish.json',
+   'DATA'),
+  ('gooey\\languages\\spanish.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\spanish.json',
+   'DATA'),
+  ('gooey\\languages\\dutch.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\dutch.json',
+   'DATA'),
+  ('gooey\\images\\running_icon.png',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\images\\running_icon.png',
+   'DATA'),
+  ('gooey\\languages\\korean.json',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\gooey\\languages\\korean.json',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\INSTALLER',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\COPYING.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\COPYING.txt',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\entry_points.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\LICENSE',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\top_level.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\LICENSE',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\LICENSE',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\zip-safe',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\zip-safe',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\RECORD',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\RECORD',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\top_level.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\top_level.txt',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\entry_points.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\entry_points.txt',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\INSTALLER',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\INSTALLER',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\WHEEL',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\WHEEL',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\METADATA',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\METADATA',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\top_level.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\top_level.txt',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\RECORD',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\RECORD',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\REQUESTED',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\zip-safe',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\zip-safe',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\INSTALLER',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\WHEEL',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\METADATA',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\RECORD',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\METADATA',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\pyinstaller-4.4.dist-info\\METADATA',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\WHEEL',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\altgraph-0.17.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools-41.2.0.dist-info\\dependency_links.txt',
+   'c:\\users\\nitro '
+   '5\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\setuptools-41.2.0.dist-info\\dependency_links.txt',
+   'DATA')],
+ [])
