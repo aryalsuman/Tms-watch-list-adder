@@ -14,4 +14,4 @@ It adds company name to watch list in tms
 
 
 ### Demo:
-<img src="./project-demo.gif" >
+<!-- <img src="./project-demo.gif" > -->
